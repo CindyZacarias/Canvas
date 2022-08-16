@@ -1,2 +1,2 @@
 # canvas
-Curso de animación con JS - Prácticas
+Prácticas - Curso de animación con JS
